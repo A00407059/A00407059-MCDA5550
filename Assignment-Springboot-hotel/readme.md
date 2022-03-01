@@ -1,5 +1,5 @@
 - SPRINGBOOT ASSIGNMENT - A00407059 Jongwon Shinn
-Submitted date: 2022-03-01
+- Submitted date: 2022-03-01
 
 - Guideline:
 Please refer to the below link for accesing the spring boot application. RDS was connected for database.
