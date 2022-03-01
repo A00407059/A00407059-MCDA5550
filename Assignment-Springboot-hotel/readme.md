@@ -10,5 +10,5 @@ Please refer to the below link for accesing the spring boot application. RDS was
 
 
 
-- Code reference: https://www.tutussfunny.com/spring-boot-project-using-mysql-database/
-(I refered to the html code in above web blog.)
+- Code reference(html part): https://www.tutussfunny.com/spring-boot-project-using-mysql-database/
+
