@@ -10,7 +10,7 @@
 
   2. python manage.py runserver 
 
-  3. Click the local link in console and add '/hotel_list' in the end.
+  3. Click the local link in console and add '/app/hotel_list' in the end.
 
   4. You can get hotel list as json format and add new list by adding same jason format in the page.
 
