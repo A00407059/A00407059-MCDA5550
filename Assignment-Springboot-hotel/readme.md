@@ -14,6 +14,7 @@ Please refer to the below link for accesing the spring boot application. RDS was
 
 
 - Additional Log (2022-03-15)
+
 RDS free tier usage limt alerting was sent to me on Mar 15th. I had to shut down RDS, so you might not be able to connect database.
 
 I put screenshots of the web app working instead. I hope it is okay wity you. 
