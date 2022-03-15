@@ -2,7 +2,8 @@
 - Submitted date: 2022-03-01
 
 - Guideline:
-Please refer to the below link for accesing the spring boot application. RDS was connected for database.
+- 
+  Please refer to the below link for accesing the spring boot application. RDS was connected for database.
 
   [Link](http://springhotelaws-env.eba-cbtwekng.us-east-1.elasticbeanstalk.com/)
 
